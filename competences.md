@@ -1,10 +1,9 @@
 ---
-title: "Compétence"
+title: "Compétences"
 order: 1
 in_menu: true
 ---
 <section class="skills">
-        <h2>Mes compétences</h2>
         <ul>
             <li>Connaissance de l'ensemble des couches d'un système : Matériel, BIOS, système, réseau et applicatifs.</li>
             <li>Connaissance du modèle OSI-TCP/IP.</li>
