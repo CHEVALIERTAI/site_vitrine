@@ -6,7 +6,7 @@ in_menu: true
 <section class="about">
        
        <p>Grâce a mon ancien travail en logistique,j'ai appréhendé des logiciels qui m'ont permis d'accroitre mon expérience sur les outils informatiques et développer ma curiosité sur le fonctionnement des systèmes.
-            J'ai donc cherché un métier qui me permette d'assoiffer cette envie de connaissances.
+            J'ai donc cherché un métier qui me permette d'étancher cette soif de connaissances.
         <br>
         <br>Actuellement en formation d'assistance informatique,j'ai acquis une solide formation technique et des compétences variées.
            L'objectif est de me familiariser avec l'ensemble des aspects du support informatique: diagnostic d'une panne,rédaction d'un ticket d'incident ou encore paramétrage d'une machine virtuelle.
