@@ -1,6 +1,6 @@
 ---
 title: "Compétence"
-order: 4
+order: 1
 in_menu: true
 ---
 <section class="skills">
