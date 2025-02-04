@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 <section class="about">
-       
+       <h2> A propos de moi </h2>
        <p>Grâce a mon ancien travail en logistique,j'ai appréhendé des logiciels qui m'ont permis d'accroitre mon expérience sur les outils informatiques et développer ma curiosité sur le fonctionnement des systèmes.
             J'ai donc cherché un métier qui me permette d'étancher cette soif de connaissances.
         <br>
