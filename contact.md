@@ -1,9 +1,12 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
-
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+<section class="contact">
+        <h2>contact</h2>
+        <ul>
+            <li>Mon adresse mail: victorchevalier503@gmail.com</li>
+            <li>linkedin</li>
+        </ul>
+    </section> 
