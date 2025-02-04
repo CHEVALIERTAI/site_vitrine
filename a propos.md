@@ -4,8 +4,8 @@ order: 1
 in_menu: true
 ---
 <section class="about">
-        <h2>À propos de moi</h2>
-        <p>Grâce a mon ancien travail en logistique,j'ai appréhendé des logiciels qui m'ont permis d'accroitre mon expérience sur les outils informatiques et développer ma curiosité sur le fonctionnement des systèmes.
+       
+       <p>Grâce a mon ancien travail en logistique,j'ai appréhendé des logiciels qui m'ont permis d'accroitre mon expérience sur les outils informatiques et développer ma curiosité sur le fonctionnement des systèmes.
             J'ai donc cherché un métier qui me permette d'assoiffer cette envie de connaissances.
         <br>
         <br>Actuellement en formation d'assistance informatique,j'ai acquis une solide formation technique et des compétences variées.
