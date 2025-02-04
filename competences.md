@@ -9,7 +9,7 @@ in_menu: true
             <li>Connaissance du modèle OSI-TCP/IP.</li>
             <li>Installer le système d'exploitation, les pilotes et les logiciels.</li>
             <li>Créer, configurer et manipuler des machines virtuelles.</li>
-            <li>Pack office</li>
+            <li>Connaissance du Pack office</li>
             <li>diagnostic d'une panne</li>
             <li>Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile.</li>
         </ul>
