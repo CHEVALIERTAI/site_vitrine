@@ -1,9 +1,9 @@
 body{
- background: rgb(12,196,178);
-background: -moz-linear-gradient(339deg, rgba(12,196,178,1) 53%, rgba(8,61,249,1) 100%);
-background: -webkit-linear-gradient(339deg, rgba(12,196,178,1) 53%, rgba(8,61,249,1) 100%);
-background: linear-gradient(339deg, rgba(12,196,178,1) 53%, rgba(8,61,249,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0cc4b2",endColorstr="#083df9",GradientType=1);  
+ background: rgb(12,47,196);
+background: -moz-linear-gradient(339deg, rgba(12,47,196,1) 36%, rgba(218,8,249,1) 100%);
+background: -webkit-linear-gradient(339deg, rgba(12,47,196,1) 36%, rgba(218,8,249,1) 100%);
+background: linear-gradient(339deg, rgba(12,47,196,1) 36%, rgba(218,8,249,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c2fc4",endColorstr="#da08f9",GradientType=1); 
  
 color: white;
 }
