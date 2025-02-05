@@ -12,6 +12,6 @@ in_menu: true
 <table>
 <tr>
 <td><img src="images/Gmail_Icon.png" alt="logo gmail" style="width:20%;height:20%;"></td> 
-<td><img src="images/Linkedin.png" alt="logo gmail" style="width:20%;height:20%;"> </td>
+<td><img src="images/Linkedin.png" alt="logo linkedin" style="width:20%;height:20%;"> </td>
 </tr>
 </table> 
