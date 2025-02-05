@@ -10,3 +10,4 @@ in_menu: true
         </ul>
     </section> 
 <img src="images/Gmail_Icon.png" alt="logo gmail"> 
+<img src="images/Gmail_Icon.png" alt="logo gmail" style="width:200px;height:300px;"> 
