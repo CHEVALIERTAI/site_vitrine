@@ -4,7 +4,8 @@ order: 1
 in_menu: true
 ---
 <section class="skills">
-        <ul>
+<h1>Compétences</h1>        
+<ul>
             <li>Connaissance de l'ensemble des couches d'un système : Matériel, BIOS, système, réseau et applicatifs.</li>
             <li>Connaissance du modèle OSI-TCP/IP.</li>
             <li>Installer le système d'exploitation, les pilotes et les logiciels.</li>
