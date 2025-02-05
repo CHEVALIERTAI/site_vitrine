@@ -11,7 +11,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c2fc4",endCo
 color: white;
 }
 
-header{ 
+header { 
 background: indigo;
 }
 
@@ -20,14 +20,14 @@ footer {
     padding-bottom: 3em;
 }
 
-p{
+p {
 color: white;
 }
 
-li{
+li {
 color: white;
 
-h1{
+h1 {
 color: white;
 }
 main > div > h1{
