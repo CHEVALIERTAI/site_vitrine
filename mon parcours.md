@@ -1,10 +1,10 @@
 ---
-title: "Compétences et Expériences"
+title: "Mon parcours"
 order: 1
 in_menu: true
 ---
 <section class="skills">
-<h1>Compétences</h1>        
+<h2>Compétences</h2>        
 <ul>
             <li>Connaissance de l'ensemble des couches d'un système : Matériel, BIOS, système, réseau et applicatifs.</li>
             <li>Connaissance du modèle OSI-TCP/IP.</li>
@@ -13,7 +13,7 @@ in_menu: true
             <li>Connaissance du Pack office</li>
             <li>Diagnostic d'une panne</li>
             <li>Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile.</li>
-<h1> Expériences </h1>
+<h2> Expériences </h2>
 <li> Préparateur de commande a ID logistics </li>
         </ul>
     </section> 
