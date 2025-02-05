@@ -10,6 +10,10 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c2fc4",endCo
  
 color: white;
 }
+img {
+margin: auto;
+margin-top: 10%;
+}
 
 header { 
 background: indigo;
@@ -34,8 +38,4 @@ main > div > h1{
 visibility: hidden;
 }
 
-img {
-margin: auto;
-margin-top: 10%;
-}
 
