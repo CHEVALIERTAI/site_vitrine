@@ -1,3 +1,6 @@
+:root {
+--couleur-primaire: #ffffff;
+}
 body{
  background: rgb(12,47,196);
 background: -moz-linear-gradient(339deg, rgba(12,47,196,1) 36%, rgba(218,8,249,1) 100%);
