@@ -34,4 +34,8 @@ main > div > h1{
 visibility: hidden;
 }
 
+img {
+margin: auto;
+margin-top: 10%;
+}
 
