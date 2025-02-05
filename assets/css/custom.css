@@ -31,5 +31,5 @@ h1{
 color: white;
 }
 main > div > h1{
-color: white;
+visibility:hidden;
 }
