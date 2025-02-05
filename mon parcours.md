@@ -1,5 +1,5 @@
 ---
-title: "Mon parcours"
+title: "Mon Parcours"
 order: 1
 in_menu: true
 ---
