@@ -1,5 +1,5 @@
 ---
-title: "Compétences"
+title: "Compétences et Expériences"
 order: 1
 in_menu: true
 ---
@@ -12,5 +12,7 @@ in_menu: true
             <li>Connaissance du Pack office</li>
             <li>Diagnostic d'une panne</li>
             <li>Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile.</li>
+<h1> Expériences </h1>
+<li> Préparateur de commande a ID logistics </li>
         </ul>
     </section> 
