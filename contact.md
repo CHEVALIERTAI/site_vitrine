@@ -9,3 +9,4 @@ in_menu: true
             <li>linkedin</li>
         </ul>
     </section> 
+<img src="Gmail_Icon.png" alt="logo gmail"> 
